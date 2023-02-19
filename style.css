@@ -5,8 +5,31 @@
     margin-top: 15px;
 }
 li{
-    padding-right: 50px;
+    /* text-align: center;
+	vertical-align: middle; */
+    padding-right: 2vw;
+    /* height: 37px; */
 }
 ul{
-    margin-left: 8vw;
+    margin-left: 4vw;
+}
+.avat{
+    width: 61px;
+    height: 61px;
+    border-radius: 31px;
+}
+a{
+    text-align: center;
+	vertical-align: middle
+}
+#top{
+    padding-top: 26px;
+    --bs-nav-link-padding-y: 0;
+}
+.search{
+    width: 20px;
+    height: 20px;
+}
+#avatar_b{
+    padding-right: 40px;
 }
